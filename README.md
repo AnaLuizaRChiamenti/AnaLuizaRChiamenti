@@ -1,9 +1,8 @@
-# Hi  <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, I'm Ana. 
-
+# Hi <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, I'm Ana.
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_About me_**
 
 I am an student Computer science and student at Web Full Stack at Growdev I love to learn and build something new, productive, innovative!
 
