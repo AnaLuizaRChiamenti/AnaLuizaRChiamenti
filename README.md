@@ -20,9 +20,7 @@ I am an student Computer science and student at Web Full Stack at Growdev I love
       <a href="mailto:analuizarodrigueschiamenti@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://www.instagram.com/ana.chiamenti/" target="blank"><img align="center"
+         <a href="https://www.instagram.com/ana.chiamenti/" target="blank"><img align="center"
          src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
          alt="azzar" height="30"/></a>
       <br>
