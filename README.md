@@ -91,7 +91,7 @@ I have done an internship in administration.
 
 # Olá <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, me chamo Ana.
 
-<img align="right" width=300px alt="Unicorn" src="https://i.pinimg.com/originals/d3/40/00/d34000a914018f5f997f785b8db83be0.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://i.gifer.com/origin/de/dea8f93fb360e56d2a55f6612a8943f3_w200.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Sobre mim_**
 
