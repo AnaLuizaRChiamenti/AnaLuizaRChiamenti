@@ -91,7 +91,7 @@ I have done an internship in administration.
 
 # Olá <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, me chamo Ana.
 
-<img align="right" width=200px alt="Unicorn" src="https://i.gifer.com/origin/de/dea8f93fb360e56d2a55f6612a8943f3_w200.gif" />
+<img align="right" width=200px alt="Unicorn" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Sobre mim_**
 
@@ -161,9 +161,12 @@ Fiz estágio em administração.
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaLuizaRChiamenti&theme=gruvbox&hide_border=true" />
           </a>
        </p>
-     <br>
+        <br>
      </samp>
   </div>    
+
+
+
 </details>
 </samp>
 </div>
