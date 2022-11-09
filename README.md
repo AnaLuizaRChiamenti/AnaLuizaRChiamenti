@@ -7,7 +7,7 @@
 I am an student Computer science and student at Web Full Stack at Growdev I love to learn and build something new, productive, innovative!
 
 <details>
-  <summary>☎️ contact me</summary>
+  <summary>☎️ Contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
@@ -29,7 +29,7 @@ I am an student Computer science and student at Web Full Stack at Growdev I love
 </details>
 
 <details>
-  <summary>🧮 about</summary>
+  <summary>🧮 About</summary>
 <div>
 <samp>
 <h2 align="center">About this Account</h2>
@@ -64,7 +64,7 @@ I have done an internship in administration.
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Stasistic</h3></summary>
         <p align="center">
           <a href="https://github.com/AnaLuizaRChiamenti/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaRChiamenti&show_icons=true&theme=gruvbox&hide_border=true" />
@@ -95,7 +95,7 @@ I have done an internship in administration.
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Sobre mim_**
 
-Sou estudante de Ciência da Computação e estudante da Web Full Stack na Growdev Adoro aprender e construir algo novo, produtivo, inovador!
+Sou estudante de Ciência da Computação e estudante da Web Full Stack na Growdev. Adoro aprender e construir algo novo, produtivo, inovador!
 <details>
   <summary>☎️ Entre em contato comigo</summary>
 <div>
