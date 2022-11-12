@@ -91,8 +91,6 @@ I have done an internship in administration.
 
 # Olá <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, me chamo Ana.
 
-<img align="right" width=200px alt="Unicorn" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-com-fundo-transparente-1.gif" />
-
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Sobre mim_**
 
 Sou estudante de Ciência da Computação e estudante da Web Full Stack na Growdev. Adoro aprender e construir algo novo, produtivo, inovador!
