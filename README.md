@@ -1,4 +1,4 @@
-# Hi <img src="https://github.com/1999AZZAR/1999AZZAR/raw/main/resources/img/waving.gif" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, I'm Ana.
+# Hi I'm Ana.
 
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
