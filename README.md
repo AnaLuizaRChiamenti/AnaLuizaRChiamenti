@@ -13,7 +13,10 @@
   <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ana-Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
 </div>
-  
+  ##
+    <div>
+      <img align="center" alt="Ana-img" height="50" width=70" src="https://media.discordapp.net/attachments/1113212565800095796/1124047629601472674/114808_66KdXI9m.png">
+    </div>
   ##
  
 <div> 
