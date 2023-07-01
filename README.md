@@ -15,7 +15,7 @@
 </div>
   ##
     <div>
-      <img align="center" alt="Ana-img" height="50" width=70" src="https://media.discordapp.net/attachments/1113212565800095796/1124047629601472674/114808_66KdXI9m.png">
+      <img align="left" alt="Ana-img" height="300" width=300" src="https://media.discordapp.net/attachments/1113212565800095796/1124047629601472674/114808_66KdXI9m.png">
     </div>
   ##
  
