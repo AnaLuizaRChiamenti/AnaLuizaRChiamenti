@@ -1,5 +1,5 @@
 
-## Olá me chamo Ana, bem vindo ao meu github!
+## Olá me chamo Ana, bem vindo(a) ao meu github!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaRChiamenti&show_icons=true&theme=dracula"/>
