@@ -47,19 +47,6 @@
 - 📌 **NestJS** → para APIs escaláveis e bem estruturadas  
 - 📌 **Boas práticas de arquitetura MVC**  
 - 📌 **Material UI e design de interfaces responsivas**  
-- 📌 **SQL avançado**: procedures, joins e otimização de performance  
-
----
-
-## 📌 Projetos em Destaque
-<p align="center">
-  <a href="https://github.com/AnaLuizaRChiamenti/Teste-projeto-homem-aranha">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnaLuizaRChiamenti&repo=Teste-projeto-homem-aranha&theme=rose_pine&show_owner=true" />
-  </a>
-  <a href="https://github.com/AnaLuizaRChiamenti/trabalho-final-java">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AnaLuizaRChiamenti&repo=trabalho-final-java&theme=rose_pine&show_owner=true" />
-  </a>
-</p>
 
 ---
 
