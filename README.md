@@ -1,28 +1,36 @@
-## Olá me chamo Ana, bem vindo(a) ao meu github!
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnaLuizaRChiamenti&show_icons=true&theme=dracula&token=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"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLuizaRChiamenti&layout=compact&langs_count=7&theme=dracula&token=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"/>
-</div>
+## Olá! Eu sou a Ana 👋
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ana-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Ana-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ana-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ana-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ana-Java" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg">
-</div>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 
-##
+---
 
-<div> 
-  <a href="https://www.instagram.com/ana.chiamenti/" target="_blank">
+## 🚀 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+---
+
+## 🏆 Conquistas
+[![trophy](https://github-profile-trophy.vercel.app/?username=AnaLuizaRChiamenti&theme=dracula&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🔥 Streak de Commits
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AnaLuizaRChiamenti&theme=dracula)](https://git.io/streak-stats)
+
+---
+
+## 🌎 Onde me encontrar
+<a href="https://www.instagram.com/ana.chiamenti/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:analuizarodrigueschiamenti@gmail.com">
+</a>
+<a href="mailto:analuizarodrigueschiamenti@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/analuiza-rodrigueschiamenti/" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/analuiza-rodrigueschiamenti/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</div>
+</a>
