@@ -32,16 +32,6 @@
 
 ---
 
-## 🛠 Ferramentas que uso
-<p align="center">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
----
-
 ## 📚 O que estou estudando atualmente
 - 📌 **React + Next.js** → para me aprofundar no front-end moderno  
 - 📌 **NestJS** → para APIs escaláveis e bem estruturadas  
