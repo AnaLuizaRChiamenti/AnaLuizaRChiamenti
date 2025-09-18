@@ -18,7 +18,7 @@
 
 ## 🔥 Streak de Commits
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AnaLuizaRChiamenti&theme=rose&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AnaLuizaRChiamenti&theme=rose&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
