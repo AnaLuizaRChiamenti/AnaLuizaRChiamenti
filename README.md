@@ -1,7 +1,7 @@
 <h1 align="center">🌸 Oi, eu sou a Ana! 💻✨</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDNhbG11bXF6emc4bmJidmY1ZGJlZHZ5YjBzdm03MGxtYjZ6Z29ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QXwtfadqo7wbfmT46H/giphy.gif" width="300">
 </p>
 
 ## 🌷 Tech Stack
